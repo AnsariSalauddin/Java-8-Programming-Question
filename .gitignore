@@ -1,0 +1,20 @@
+# Ignore everything
+/*
+
+# Keep src folder
+!/src/
+
+# Keep README
+!/README.md
+
+# Keep .gitignore itself
+!.gitignore
+
+# this is step->
+#echo "# Java-8-Programming-Question" >> README.md
+#git init
+#git add README.md
+#git commit -m "first commit"
+#git branch -M main
+#git remote add origin https://github.com/AnsariSalauddin/Java-8-Programming-Question.git
+#git push -u origin main
